@@ -1,1 +1,1 @@
-My first readme
+My first readme updated for the program from the GUI
